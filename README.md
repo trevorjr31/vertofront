@@ -1,5 +1,8 @@
 # vertofront
 
+Development repo for the verto exercise frontend build:
+https://github.com/trevorjr31/vertotechnicalexercise
+
 ## Project setup
 ```
 npm install
